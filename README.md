@@ -46,7 +46,7 @@ If you have any suggestions for improving this dashboard or adding new features,
 
 
 ## License 📜
-This project is licensed under the MIT License. See the [LICENSE]() file for details.
+This project is licensed under the MIT License. See the [LICENSE](https://github.com/ShivanisharmaF128/blinkit-sales-and-customer-analysis-Excel-/blob/main/LICENSE) file for details.
 
 ## Contact 📧
 For any questions or feedback, feel free to contact me:
